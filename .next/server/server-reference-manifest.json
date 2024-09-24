@@ -1,0 +1,32 @@
+{
+  "node": {
+    "934405f6686a9a49268add93a98ddc26e468e8bb": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2Froute.ts%22%2C%5B%22getEssay%22%5D%5D%2C%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2Ftransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2FgetData.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "8dc336bf0299d2429271930b931feeeff8b1dfb6": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2Froute.ts%22%2C%5B%22getEssay%22%5D%5D%2C%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2Ftransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2FgetData.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "b67a2b2fae3657d14aa525319b980d1ff163427d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2Froute.ts%22%2C%5B%22getEssay%22%5D%5D%2C%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2Ftransaction.ts%22%2C%5B%22default%22%5D%5D%2C%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2FgetData.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!",
+        "app/_not-found/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fsmol%2Fdev%2FAiPlagiarismR%2Fapp%2Factions%2FgetData.ts%22%2C%5B%22default%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/_not-found/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "adSuKwzY2WH4ZGA9gsZfjManghl66YZTG9YFm1HX7rI="
+}
